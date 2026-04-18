@@ -15,6 +15,10 @@ This folder contains system design, software engineering, and architecture refer
 - System Design Repository: [system-design](https://github.com/karanpratapsingh/system-design)
 - System Design Learning Series: [Karan Pratap Singh Series](https://dev.to/karanpratapsingh/series/19332)
 
+## Local Books
+
+- [books/](books/README.md): Local book collection in recommended order.
+
 ## Phased Learning Roadmap
 
 ### Phase 1 - LLD (Thinking in Components)
@@ -32,7 +36,7 @@ Learn:
 
 Resources:
 
-- Head First Design Patterns.
+- [Head First Design Patterns](books/Head%20First%20Design%20Patterns.pdf)
 - LLD problems (parking lot, elevator, splitwise).
 
 Security focus:
@@ -58,7 +62,7 @@ Learn deeply:
 
 Core resource:
 
-- Designing Data-Intensive Applications.
+- [Designing Data-Intensive Applications](books/Designing%20Data%20Intensive%20Applications.pdf)
 
 Focus questions:
 
@@ -127,7 +131,7 @@ Practical security resource:
 
 Production-level thinking resource:
 
-- Site Reliability Engineering.
+- [Google SRE Workbook](books/Google%20SRE%20Workbook.pdf)
 
 Also learn:
 

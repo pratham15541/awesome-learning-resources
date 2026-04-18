@@ -1,10 +1,10 @@
 # Quantum Computing Resources
 
-This folder contains quantum computing learning material and core books used by the roadmap in the main repository.
+This folder contains the quantum computing learning track and its core books.
 
 ## Folder Layout
 
-- `books/`: Core quantum books in recommended learning sequence.
+- [books/](books/README.md): Core quantum books in recommended reading order.
 
 ## Objective
 
@@ -35,7 +35,7 @@ Focus:
 
 Reading:
 
-- [Quantum Computing for Everyone (Chris Bernhardt)](books/quantum-computing-for-everyone.pdf)
+- [Quantum Computing for Everyone](books/quantum-computing-for-everyone.pdf)
 
 Practice:
 
@@ -52,7 +52,7 @@ Focus:
 
 Reading:
 
-- [Programming Quantum Computers: Essential Algorithms and Code Samples (Eric R. Johnston et al.)](books/programming-quantum-computers-essential-algorithms-and-code-samples.pdf)
+- [Programming Quantum Computers: Essential Algorithms and Code Samples](books/programming-quantum-computers-essential-algorithms-and-code-samples.pdf)
 
 Practice:
 
@@ -70,7 +70,7 @@ Focus:
 
 Reading:
 
-- [Quantum Computing: A Gentle Introduction (Eleanor Rieffel)](books/Quantum%20Computing%20A%20Gentle%20Introduction%20%E2%80%94%20Eleanor%20Rieffel.pdf)
+- [Quantum Computing: A Gentle Introduction](books/Quantum%20Computing%20A%20Gentle%20Introduction%20%E2%80%94%20Eleanor%20Rieffel.pdf)
 
 Practice:
 
@@ -87,7 +87,7 @@ Focus:
 
 Reading:
 
-- [Quantum Computing: An Applied Approach (Jack D. Hidary)](books/Quantum%20Computing%20An%20Applied%20Approach%20by%20Jack%20D.%20Hidary.pdf)
+- [Quantum Computing: An Applied Approach](books/Quantum%20Computing%20An%20Applied%20Approach%20by%20Jack%20D.%20Hidary.pdf)
 
 Practice:
 
@@ -97,7 +97,7 @@ Practice:
 
 ### 5. Advanced Reference (Optional)
 
-- [Quantum Computation and Quantum Information (Nielsen and Chuang)](books/quantum-computation-and-quantum-information-nielsen-chuang.pdf)
+- [Quantum Computation and Quantum Information](books/quantum-computation-and-quantum-information-nielsen-chuang.pdf)
 
 Use this text as a long-term reference rather than an introductory first pass.
 
@@ -119,4 +119,4 @@ By completion, prepare the following portfolio artifacts:
 
 ## Resources
 
-Primary resources are listed in [books/README.md](books/README.md), including 5-point summaries of what each book covers.
+Primary resources are listed in [books/README.md](books/README.md), including short summaries of what each book covers.

@@ -2,117 +2,29 @@
 
 This repository provides a concise, structured study plan for learners beginning quantum computing with Python and Qiskit.
 
-## Objective
+## Repository Structure
 
-Develop competency in quantum foundations, circuit design, and introductory algorithms through coordinated reading, lectures, and implementation.
+- `quantum-computing/`: Quantum learning track and core books.
+- `quantum-computing/books/`: Book collection with 5-point summaries.
+- `dsa/`: Data structures and algorithms learning resources.
+- `system-design/`: System design and software architecture resources.
 
-## Required Setup
+Folder documentation:
 
-- Python 3.10+
-- Qiskit
-- Jupyter Notebook
-- IBM Quantum account: https://quantum.ibm.com/
+- [Quantum Computing Folder Guide](quantum-computing/README.md)
+- [Quantum Books Guide](quantum-computing/books/README.md)
+- [DSA Resources Guide](dsa/README.md)
+- [System Design Resources Guide](system-design/README.md)
 
-```bash
-pip install qiskit jupyter
-jupyter notebook
-```
-
-## Study Plan
-
-### 1. Foundations
-
-Focus:
-
-- Qubits
-- Superposition
-- Entanglement
-- Basic gates (H, X, CNOT)
-
-Reading:
-
-- [Quantum Computing for Everyone (Chris Bernhardt)](books/quantum-computing-for-everyone.pdf)
-
-Practice:
-
-- Single-qubit Hadamard experiment
-- Bell state preparation and measurement
-
-### 2. Circuit Programming
-
-Focus:
-
-- Circuit construction in Qiskit
-- Measurement and interpretation
-- Multi-qubit systems
-
-Reading:
-
-- [Programming Quantum Computers: Essential Algorithms and Code Samples (Eric R. Johnston et al.)](books/programming-quantum-computers-essential-algorithms-and-code-samples.pdf)
-
-Practice:
-
-- Quantum coin toss
-- Bell state generator
-- Quantum teleportation (simulation)
-
-### 3. Introductory Algorithms
-
-Focus:
-
-- Grover's algorithm
-- Shor's algorithm (conceptual and small-scale simulation)
-- Quantum Fourier Transform (QFT)
-
-Reading:
-
-- [Quantum Computing: A Gentle Introduction (Eleanor Rieffel)](books/Quantum%20Computing%20A%20Gentle%20Introduction%20%E2%80%94%20Eleanor%20Rieffel.pdf)
-
-Practice:
-
-- Grover search implementation
-- Small-number Shor simulation
-
-### 4. Applied Topics
-
-Focus:
-
-- Optimization use cases
-- Introductory quantum machine learning
-- Industry-oriented demonstrations
-
-Reading:
-
-- [Quantum Computing: An Applied Approach (Jack D. Hidary)](books/Quantum%20Computing%20An%20Applied%20Approach%20by%20Jack%20D.%20Hidary.pdf)
-
-Practice:
-
-- Portfolio optimization toy model
-- Quantum random number generator
-- Hybrid classical ML + quantum demo
-
-### 5. Advanced Reference (Optional)
-
-- [Quantum Computation and Quantum Information (Nielsen and Chuang)](books/quantum-computation-and-quantum-information-nielsen-chuang.pdf)
-
-Use this text as a long-term reference rather than an introductory first pass.
-
-## Recommended Work Pattern
-
-- 1-2 hours per day, 5-6 days per week
-- Suggested distribution: 40% coding, 30% video lectures, 30% reading
-
-## Deliverables
-
-By completion, prepare the following portfolio artifacts:
-
-1. Hadamard and measurement notebook
-2. Bell state and entanglement notebook
-3. Quantum teleportation notebook
-4. Grover implementation notebook
-5. Small-number Shor notebook
-6. One applied project notebook
 
 ## Contributing
 
 For contributions (code, tutorials, books, or resources), see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Book Explanations
+
+For 5-point explanations of what each book covers:
+
+- Quantum track books: [quantum-computing/books/README.md](quantum-computing/books/README.md)
+- DSA books: [dsa/README.md](dsa/README.md)
+- System design books: [system-design/README.md](system-design/README.md)

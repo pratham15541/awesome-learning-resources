@@ -4,7 +4,7 @@ This folder contains DevOps, observability, and production operations material.
 
 ## Folder Layout
 
-- [books/](books/README.md): Local book collection in practical reading order.
+- [books/](books/README.md): Book summaries and a recommended reading order for DevOps learning.
 
 ## Focus Areas
 
@@ -16,6 +16,10 @@ This folder contains DevOps, observability, and production operations material.
 ## Notes
 
 Use this folder alongside the system design track when you want more operational depth than architecture alone provides.
+
+## Book Guide
+
+- [DevOps books](books/README.md): Practical reading on delivery pipelines, production stability, observability, and Linux tooling.
 
 ## System Design vs DevOps Questions
 

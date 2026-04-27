@@ -11,6 +11,7 @@ This folder contains the local book collection for the system design track.
 5. [Release It! Design and Deploy Production-Ready Software](Release%20It!%20Design%20and%20Deploy%20Production-Ready%20Software.pdf)
 6. [Google SRE Workbook](Google%20SRE%20Workbook.pdf)
 7. [System Design Interview: An Insider’s Guide](<Alex%20Yu%20-%20System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20(2020,%20Independently%20published)%20-%20libgen.li.pdf>)
+8. [Grokking the Advanced System Design Interview](Grokking%20the%20Advanced%20System%20Design%20Interview.pdf)
 
 ## Book Notes
 
@@ -21,3 +22,4 @@ This folder contains the local book collection for the system design track.
 - [Release It! Design and Deploy Production-Ready Software](Release%20It!%20Design%20and%20Deploy%20Production-Ready%20Software.pdf): Stability patterns for production systems.
 - [Google SRE Workbook](Google%20SRE%20Workbook.pdf): Reliability engineering, operations, and incident response.
 - [System Design Interview: An Insider’s Guide](<Alex%20Yu%20-%20System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20(2020,%20Independently%20published)%20-%20libgen.li.pdf>): Interview-style architecture and tradeoff practice.
+- [Grokking the Advanced System Design Interview](Grokking%20the%20Advanced%20System%20Design%20Interview.pdf): Advanced distributed-system design patterns and interview prep.

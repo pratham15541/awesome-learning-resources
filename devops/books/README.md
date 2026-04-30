@@ -11,7 +11,8 @@ This folder contains the local reading list for DevOps and production operations
 5. [Linux Utilities Cookbook](Linux%20Utilities%20Cookbook-%5BJames%5D.pdf)
 6. [DevOps and Containers Security and Monitoring in Docker Containers](devops-and-containers-security-security-and-monitoring-in-docker-containers%20%281%29.pdf)
 7. [DevOps Handbook: Customize and Scale Your Linux Distributions to Accelerate Your DevOps Workflow](devops-handbook-customize-and-scale-your-linux-distributions-to-accelerate-your-devops-workflow.pdf)
-8. [Pro Git](progit.pdf)
+8. [Terraform: Up and Running](Brikman%20Y.%20Terraform.%20Up%20and%20Running.%20Writing...as%20Code%203ed%202022.pdf)
+9. [Pro Git](progit.pdf)
 
 ## Book Notes
 
@@ -22,4 +23,5 @@ This folder contains the local reading list for DevOps and production operations
 - [Linux Utilities Cookbook](Linux%20Utilities%20Cookbook-%5BJames%5D.pdf): Practical command-line tooling for operations work.
 - [DevOps and Containers Security and Monitoring in Docker Containers](devops-and-containers-security-security-and-monitoring-in-docker-containers%20%281%29.pdf): Docker container security, monitoring, and runtime operations guidance.
 - [DevOps Handbook: Customize and Scale Your Linux Distributions to Accelerate Your DevOps Workflow](devops-handbook-customize-and-scale-your-linux-distributions-to-accelerate-your-devops-workflow.pdf): Linux distribution customization and workflow automation for DevOps teams.
+- [Terraform: Up and Running](Brikman%20Y.%20Terraform.%20Up%20and%20Running.%20Writing...as%20Code%203ed%202022.pdf): Infrastructure as code fundamentals, Terraform workflow, and provisioning patterns.
 - [Pro Git](progit.pdf): Git fundamentals, workflows, branching, and repository management.

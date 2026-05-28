@@ -14,6 +14,7 @@ This folder contains system design, software engineering, and architecture refer
 - System Design Primer: [system-design-primer](https://github.com/donnemartin/system-design-primer)
 - System Design Repository: [system-design](https://github.com/karanpratapsingh/system-design)
 - System Design Learning Series: [Karan Pratap Singh Series](https://dev.to/karanpratapsingh/series/19332)
+- Roadmap: [System Design](https://roadmap.sh/system-design)
 
 ## Local Books
 
